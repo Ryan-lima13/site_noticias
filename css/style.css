@@ -65,3 +65,13 @@ main{
     margin-left: 5px;
     border: 2px solid #de003e;
 }
+#img{
+    float: left;
+    padding: 3px;
+}
+#para{
+    float: right;
+}
+#segundo{
+    clear: both;
+}
