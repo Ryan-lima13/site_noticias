@@ -30,3 +30,9 @@ nav ul a:hover{
     color:#de003e
     
 }
+/*Conteudo*/
+main{
+    width: 800px;
+    margin: auto;
+    padding-top: 20px;
+}
