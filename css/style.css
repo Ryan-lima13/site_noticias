@@ -47,6 +47,7 @@ main{
  
    margin-top: 30px;
    width: 320px;
+   float: left;
     
    
    
@@ -65,13 +66,37 @@ main{
     margin-left: 5px;
     border: 2px solid #de003e;
 }
-#img{
+#foto{
     float: left;
     padding: 3px;
 }
 #para{
     float: right;
 }
-#segundo{
+#segundo-img{
     clear: both;
 }
+#terceira-img{
+    clear: both;
+}
+#destaque{
+    border-style: groove;
+   border-color: #467bb4;
+   margin-top: 30px;
+   width: 50%;
+   float: right;
+
+}
+#destaque h2{
+    color: #fff;
+    background-color: #294c71;
+}
+footer{
+    clear: both;
+    color: #fff;
+    background-color: #294c71;
+    height: 150px;
+    text-align: center;
+    padding: 10px;
+}
+
