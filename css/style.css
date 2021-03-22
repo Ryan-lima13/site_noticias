@@ -79,6 +79,9 @@ main{
 #terceira-img{
     clear: both;
 }
+#quinta-img{
+    clear: both;
+}
 #destaque{
     border-style: groove;
    border-color: #467bb4;
@@ -97,5 +100,16 @@ footer{
     text-align: center;
     padding: 10px;
     
+}
+#new{
+    clear: both;
+}
+label{
+    font-weight: 600;
+}
+#btn{
+    border: 2px solid black;
+    color: #fff;
+    background-color: #de003e;
 }
 
